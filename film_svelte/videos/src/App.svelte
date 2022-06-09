@@ -235,7 +235,6 @@
     line-height: 100px;
     position: fixed;
     background-color:	#292929;
-    top: -42px;
     left: 0;
     right: 0;;
     height: 110px;
